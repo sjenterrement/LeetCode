@@ -2,7 +2,7 @@ package longestCommomPrefix;
 
 import java.util.ArrayList;
 
-public class LongestCommonPrefix {
+public class LongestCommonPrefix_1 {
 
 	public static void main(String[] args) {
 
